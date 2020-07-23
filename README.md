@@ -1,2 +1,2 @@
 # governance-script-sandbox-corp-templates
-Simulated corp template repo got gv gov
+Simulated corp template repo for gv gov
